@@ -1,8 +1,10 @@
-# Scion and sustainability
+# SCION and sustainability
 
 This document aims to figure out if there are problems with Scion in terms of it's sustainability claims
 
 ie. https://www.weforum.org/agenda/2021/03/internet-carbon-emissions-data-path-scion/
+
+This is not meant as a critique to SCION per se, but to explore if a shift in how the Internet energy use is modeled is needed, for research to have a real-life impact on reducing the environmental footprint of the Internet.
 
 # Concerns
 
