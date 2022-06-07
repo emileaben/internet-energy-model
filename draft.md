@@ -59,3 +59,9 @@ What if consumers had access to 2 Internets: 1 that is expensive, always on, alw
 
 ## protocols:
 Tussle between security and resource use: we want the internet to be more secure, and we tack on technology ( HTTP->HTTPS , DNSSEC , RPKI , BGPSEC ) that will typically cause more packets and/or more resource use at the end-points (clients/servers). To what extent is a secure Internet less sustainable. Doing security in layers is extra costly (lower layers encrypt traffic that is already encrypted, causing double work, which adds a little security, at the expense of a lot of resource use?)
+
+## references:
+ICT energy use in China:
+https://www.sciencedirect.com/science/article/pii/S0140988319301288
+Greenpeace click clean (2017):
+https://www.greenpeace.org/usa/fighting-climate-chaos/click-clean/ 
