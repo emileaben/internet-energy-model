@@ -88,6 +88,8 @@
     <bib:Memo rdf:about="#item_2459">
         <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;Forword, page xiv, paragraph 3: “&lt;span style=&quot;color: rgb(13.700000%, 12.300000%, 12.600000%)&quot;&gt;Another strength of SCION technology turns out to be particularly relevant in times of global warming. […]. SCION could make a difference: ETH researchers estimate that the increased efficiency of the SCION network could save up to 2.8 GW of electricity globally compared to the energy consumption of today’s networks.&lt;/span&gt;“&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Chapter 16, page 393&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/div&gt;</rdf:value>
     </bib:Memo>
@@ -176,6 +178,73 @@
     </bib:Book>
     <bib:Memo rdf:about="#item_2462">
         <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;Chapter ‘Power Consumption’, page 331&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Document rdf:about="https://www.weforum.org/agenda/2021/03/internet-carbon-emissions-data-path-scion/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Scherrer</foaf:surname>
+                        <foaf:givenName>Simon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Legner</foaf:surname>
+                        <foaf:givenName>Markus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schmidt</foaf:surname>
+                        <foaf:givenName>Tobias</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perrig</foaf:surname>
+                        <foaf:givenName>Adrian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Footprints on the path: how routing data could reduce the internet's carbon toll</dc:title>
+        <dc:date>21/03/2021</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.weforum.org/agenda/2021/03/internet-carbon-emissions-data-path-scion/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
+    <bib:ConferenceProceedings rdf:about="https://indico.cern.ch/event/1075584/contributions/4663317/attachments/2378661/4063872/CS3-keynote-SCION-2022%20%281%29.pdf">
+        <z:itemType>presentation</z:itemType>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perrig</foaf:surname>
+                        <foaf:givenName>Adrian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <dcterms:isReferencedBy rdf:resource="#item_2465"/>
+        <dc:title>Experiencing a New Internet Architecture</dc:title>
+        <z:language>English</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://indico.cern.ch/event/1075584/contributions/4663317/attachments/2378661/4063872/CS3-keynote-SCION-2022%20%281%29.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:ConferenceProceedings>
+    <bib:Memo rdf:about="#item_2465">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;Slide 10-13&lt;/p&gt;
 &lt;/div&gt;</rdf:value>
     </bib:Memo>
 </rdf:RDF>
