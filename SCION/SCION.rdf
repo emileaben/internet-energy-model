@@ -1,0 +1,294 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <bib:Book rdf:about="urn:isbn:978-3-031-05287-3%20978-3-031-05288-0">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>Information Security and Cryptography</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cham</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer International Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chuat</foaf:surname>
+                        <foaf:givenName>Laurent</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Legner</foaf:surname>
+                        <foaf:givenName>Markus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Basin</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hausheer</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hitz</foaf:surname>
+                        <foaf:givenName>Samuel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Müller</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perrig</foaf:surname>
+                        <foaf:givenName>Adrian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_2459"/>
+        <dc:title>The Complete Guide to SCION: From Design Principles to Formal Verification</dc:title>
+        <dc:date>2022</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>The Complete Guide to SCION</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/10.1007/978-3-031-05288-0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-13 09:43:43</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1007/978-3-031-05288-0</dc:description>
+        <dc:identifier>ISBN 978-3-031-05287-3 978-3-031-05288-0</dc:identifier>
+        <z:numPages>656</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_2459">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;Forword, page xiv, paragraph 3: “&lt;span style=&quot;color: rgb(13.700000%, 12.300000%, 12.600000%)&quot;&gt;Another strength of SCION technology turns out to be particularly relevant in times of global warming. […]. SCION could make a difference: ETH researchers estimate that the increased efficiency of the SCION network could save up to 2.8 GW of electricity globally compared to the energy consumption of today’s networks.&lt;/span&gt;“&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Chapter 16, page 393&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Document rdf:about="https://zisc.ethz.ch/2021/03/26/sustainable-internet-routing-with-scion/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+            <z:Blog>
+               <dc:title>Zurich Information Security and Privacy Center</dc:title>
+            </z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Unkown</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>SUSTAINABLE INTERNET ROUTING WITH SCION</dc:title>
+        <dc:date>26/03/2021</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://zisc.ethz.ch/2021/03/26/sustainable-internet-routing-with-scion/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
+    <bib:Book rdf:about="urn:isbn:978-3-319-67079-9%20978-3-319-67080-5">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>Information Security and Cryptography</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cham</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer International Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perrig</foaf:surname>
+                        <foaf:givenName>Adrian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Szalachowski</foaf:surname>
+                        <foaf:givenName>Pawel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reischuk</foaf:surname>
+                        <foaf:givenName>Raphael M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chuat</foaf:surname>
+                        <foaf:givenName>Laurent</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_2462"/>
+        <dc:title>SCION: A Secure Internet Architecture</dc:title>
+        <dc:date>2017</dc:date>
+        <z:shortTitle>SCION</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/978-3-319-67080-5</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-07-13 09:55:02</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.1007/978-3-319-67080-5</dc:description>
+        <dc:identifier>ISBN 978-3-319-67079-9 978-3-319-67080-5</dc:identifier>
+        <z:numPages>432</z:numPages>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_2462">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;Foreword, page xii, paragraph 4: “reuse the existing intra-domain communication to the maximum extent.“&lt;/p&gt;
+&lt;p&gt;Chapter ‘Power Consumption’, page 331&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Document rdf:about="https://www.weforum.org/agenda/2021/03/internet-carbon-emissions-data-path-scion/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Scherrer</foaf:surname>
+                        <foaf:givenName>Simon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Legner</foaf:surname>
+                        <foaf:givenName>Markus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schmidt</foaf:surname>
+                        <foaf:givenName>Tobias</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perrig</foaf:surname>
+                        <foaf:givenName>Adrian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Footprints on the path: how routing data could reduce the internet's carbon toll</dc:title>
+        <dc:date>21/03/2021</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.weforum.org/agenda/2021/03/internet-carbon-emissions-data-path-scion/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
+    <bib:ConferenceProceedings rdf:about="https://indico.cern.ch/event/1075584/contributions/4663317/attachments/2378661/4063872/CS3-keynote-SCION-2022%20%281%29.pdf">
+        <z:itemType>presentation</z:itemType>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perrig</foaf:surname>
+                        <foaf:givenName>Adrian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <dcterms:isReferencedBy rdf:resource="#item_2465"/>
+        <dc:title>Experiencing a New Internet Architecture</dc:title>
+        <z:language>English</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://indico.cern.ch/event/1075584/contributions/4663317/attachments/2378661/4063872/CS3-keynote-SCION-2022%20%281%29.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:ConferenceProceedings>
+    <bib:Memo rdf:about="#item_2465">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;Slide 10-13&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Report rdf:about="https://www.ietf.org/id/draft-dekater-panrg-scion-overview-01.html">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>IETF - PANRG</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Kater</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rustignoli</foaf:surname>
+                        <foaf:givenName>N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perrig</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_2467"/>
+        <dc:title>SCION Overview</dc:title>
+        <dc:date>19/05/2022</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ietf.org/id/draft-dekater-panrg-scion-overview-01.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <bib:Memo rdf:about="#item_2467">
+        <rdf:value>&lt;div data-schema-version=&quot;8&quot;&gt;&lt;p&gt;Section 3.1, paragraph 1: “&lt;span style=&quot;color: rgb(34, 34, 34)&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255)&quot;&gt;This way SCION allows to reuse the existing intra-domain network and equipment (e.g., IP, MPLS).&lt;/span&gt;&lt;/span&gt;“&lt;/p&gt;
+&lt;/div&gt;</rdf:value>
+    </bib:Memo>
+</rdf:RDF>
